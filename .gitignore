@@ -8,5 +8,6 @@
 *.docx
 *.ipynb_checkpoints
 *.png
+*.sql
 
  
